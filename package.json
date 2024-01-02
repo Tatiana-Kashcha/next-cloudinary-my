@@ -9,5 +9,8 @@
     "next-cloudinary",
     "scripts"
   ],
+  "scripts": {
+    "upload": "node upload-sample-images.js"
+  },
   "devDependencies": {}
 }
